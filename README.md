@@ -12,7 +12,7 @@ lab: http://www.srmt.nitech.ac.jp/
 - IJCAI2023/08: IJCAI併設ワークショップ
   - "Toward Democratic Laboratory: LLM-based Coaching Agent for Promoting Students’ Autonomy"
   - (訳:民主的な研究室を目指して:大規模言語モデルを用いた学生の自主性を向上させるコーチングエージェント)
-  - Best Student Paper Award受賞  
+  - Best Student Paper Award受賞 https://sites.google.com/kyoto-u.ac.jp/democrai2023/awards
 - SIG-SLUD2023/03:言語・音声理解と対話処理研究会
   - 「適材適所配置支援システムのための個人の属性タグの収集対話システムの試作」
 - 名古屋工業大学卒業論文2023/02:
