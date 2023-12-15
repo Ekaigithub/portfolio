@@ -9,7 +9,8 @@ e-mail: e.hashimoto.611@stn.nitech.ac.jp
 - 「Discovering Authentic Self: Coaching Agent for Job-Hunting Students」（採択済み 2023/12/13）
   - 2024/6 HUMAN-COMPUTER INTERACTION @ Washington D.C (採択率約30％)
 - 「GPT-4を用いた就活生の自己分析支援システムの試作」(ポスター発表)
-  - 2023/12 JSAI SIG-SLUD(人工知能学会 言語・音声理解と対話処理研究会) 
+  - 2023/12 JSAI SIG-SLUD(人工知能学会 言語・音声理解と対話処理研究会)
+  - 若手萌芽賞受賞<br>https://jsai-slud.github.io/sig-slud/99th-sig.html
 - 「不完全な指示に対する対話型情報補完システムの検討」
   - 2023/10 JSAI SIG-CCI(人工知能学会 市民共創知研究会) 
   - ベストプラクティス賞受賞<br>https://sigcci.github.io/sigcci/conf11/index.html
