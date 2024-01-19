@@ -1,5 +1,5 @@
 # ポートフォリオ
-橋本慧海(HASHIMTO Ekai)  
+橋本慧海(HASHIMOTO Ekai)  
 名古屋工業大学大学院　創造工学プログラム　情報工学専攻　白松研究室
 # 各種アドレス
 e-mail: e.hashimoto.611@stn.nitech.ac.jp  
