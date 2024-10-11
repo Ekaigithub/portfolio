@@ -4,21 +4,28 @@
 # 各種アドレス
 e-mail: e.hashimoto.611@stn.nitech.ac.jp  
 研究室URL: http://www.srmt.nitech.ac.jp/  
-就活支援システムURL: https://hsmtapp.ngrok.io/
-# 発表タイトル・研究テーマ
-- 「Discovering Authentic Self: Coaching Agent for Job-Hunting Students」（採択済み 2023/12/13）
-  - 2024/6 HUMAN-COMPUTER INTERACTION @ Washington D.C (採択率約30％)
+~~就活支援システムURL: https://hsmtapp.ngrok.io/~~
+# 研究業績
+- 「LLMによる仮説形成的スロット生成を用いたキャリア面談対話システム」
+  - 2024/9 JSAI SIG-SLUD(人工知能学会 言語・音声理解と対話処理研究会)
+- "Discovering Authentic Self: Coaching Agent for Job-Hunting Students"
+  - 2024/6 HUMAN-COMPUTER INTERACTION @ Washington D.C **(採択率約30％)**
+- **名古屋工業大学副学長表彰（学術部門）**
+- 「聴衆反応の類型化 : ビブリオバトルにおける聴衆の反応と投票行動には個人性があるか?」 (ポスター発表)
+  - 2024/6 音学シンポジウム 2024（第140回MUS・第152回SLP合同研究発表会）
+- 「看護師のキャリア面談のためのLLM を用いたスロット生成型対話システム」
+  - 2024/2 JSAI SIG-SLUD(人工知能学会 言語・音声理解と対話処理研究会)
 - 「GPT-4を用いた就活生の自己分析支援システムの試作」(ポスター発表)
   - 2023/12 JSAI SIG-SLUD(人工知能学会 言語・音声理解と対話処理研究会)
-  - 若手萌芽賞受賞<br>https://jsai-slud.github.io/sig-slud/99th-sig.html
+  - **若手萌芽賞受賞**
 - 「不完全な指示に対する対話型情報補完システムの検討」
   - 2023/10 JSAI SIG-CCI(人工知能学会 市民共創知研究会) 
-  - ベストプラクティス賞受賞<br>https://sigcci.github.io/sigcci/conf11/index.html
+  - **ベストプラクティス賞受賞**<br>https://sigcci.github.io/sigcci/conf11/index.html
 - 「GPT-4を用いた就活生の自己分析支援システムの試作」(ポスター発表)
   - 2023/09 JSET(日本教育工学会) 
 - "Toward Democratic Laboratory: LLM-based Coaching Agent for Promoting Students’ Autonomy"<br>(訳:民主的な研究室を目指して:大規模言語モデルを用いた学生の自主性を向上させるコーチングエージェント)
   - 2023/08 IJCAI併設ワークショップ 
-  - Best Student Paper Award受賞<br>https://sites.google.com/kyoto-u.ac.jp/democrai2023/awards
+  - **Best Student Paper Award受賞**<br>https://sites.google.com/kyoto-u.ac.jp/democrai2023/awards
 - 「適材適所配置支援システムのための個人の属性タグの収集対話システムの試作」
   - 2023/03 JSAI SIG-SLUD(人工知能学会 言語・音声理解と対話処理研究会) 
 - 「適材適所配置支援システムのための個人の属性タグの収集対話システムの開発」
